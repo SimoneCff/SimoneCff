@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Simone Cioffi
 
 🎓 **MSc student in Machine Learning & Big Data** @ University of Naples "Parthenope"  
-🔬 Collaborating on AI research projects with professors at Parthenope  
-📑 Co-author of peer-reviewed work on hybrid AI frameworks (vision + FCM inference)  
+🔬 Collaborating on AI research projects with professors at Parthenope   
 🏆 Active participant in AI challenges and academic conferences  
-🌊 Focus areas: **Computer Vision, Deep Learning, Marine & Medical AI, Open-Source LMMs**
+🌊 Focus areas: **Computer Vision, Deep Learning, Open-Source LMMs**
 
 ---
 
