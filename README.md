@@ -9,11 +9,10 @@
 ---
 
 ## 🚀 Selected Projects
-
-- **[Hyb-DysNet](https://github.com/SimoneCff/Hyb-DysNet)** — Hybrid feature fusion + soft-voting ensemble for dysarthria severity classification in ALS patients
+- **[Hyb-DysNet](https://github.com/SimoneCff/Hyb-DysNet)** — Hybrid feature fusion + soft-voting ensemble for dysarthria severity classification in ALS patients *AIPHEA2026*
 - **[ThruCorals](https://github.com/SimoneCff/ThruCorals)** — CNN-based coral classification with SeaThru underwater image enhancement
 - **[MARIS](https://github.com/SimoneCff/MARIS)** — Marine Automated Recognition and Identification System
-- 🔬 **Coral Reef Risk Assessment** — Zero-shot visual feature extraction with Gemma 4-E4B + Fuzzy Cognitive Map inference on Coralscapes dataset *(paper pending)*
+- **[Coral Reef Risk Assessment](https://github.com/CI-SSLab/coral-reef-zeroshot-fcm)** — Zero-shot visual feature extraction with Gemma 4-E4B + Fuzzy Cognitive Map inference on Coralscapes dataset *ICPR 2026- AUSTech workshop*
 
 ---
 
